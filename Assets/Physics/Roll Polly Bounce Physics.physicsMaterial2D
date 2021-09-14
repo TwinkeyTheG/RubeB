@@ -8,4 +8,4 @@ PhysicsMaterial2D:
   m_PrefabAsset: {fileID: 0}
   m_Name: Roll Polly Bounce Physics
   friction: 0
-  bounciness: 0.42
+  bounciness: 0.47
